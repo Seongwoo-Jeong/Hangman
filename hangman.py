@@ -7,3 +7,5 @@ sum = num1 + num2
 
 print('answer is' .format(num1, num2) )
 print('making new changes')
+print('making new changes')
+print('making new changes')
